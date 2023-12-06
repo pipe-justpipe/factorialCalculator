@@ -6,4 +6,4 @@ function calaulateFactorial(number){
         factorial *=i;
     }
     return factorial;
-}console.log(calaulateFactorial(5))
+}console.log(calaulateFactorial(8))
