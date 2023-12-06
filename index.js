@@ -6,4 +6,7 @@ function calaulateFactorial(number){
         factorial *=i;
     }
     return factorial;
-}console.log(calaulateFactorial(8))
+}console.log(calaulateFactorial(5))
+//reusablity test
+console.log(calaulateFactorial(4))
+console.log(calaulateFactorial(3))
